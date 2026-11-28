@@ -1,12 +1,12 @@
 {
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Native Windows customization for Logitech HID++ mice with visual MX Master button configuration and experimental MX family support.",
   "homepage": "https://github.com/divyangchauhan/Mushak",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/divyangchauhan/Mushak/releases/download/v0.0.11/mushak.exe#/mushak.exe",
-      "hash": "aecf312a4a89909b372186a0bbb1c594b46b968c86b419b785ef540149235f7f"
+      "url": "https://github.com/divyangchauhan/Mushak/releases/download/v0.0.12/mushak.exe#/mushak.exe",
+      "hash": "9f00bf64a0f6812e8ed7cb21664f5652848764f0bde05c920dcda17318f67657"
     }
   },
   "bin": "mushak.exe",
